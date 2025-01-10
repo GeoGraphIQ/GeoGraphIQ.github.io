@@ -1,1 +1,1 @@
-"# NaturallySolutions.github.io" 
+## GeoGraphIQ 👋
